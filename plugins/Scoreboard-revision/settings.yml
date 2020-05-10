@@ -80,3 +80,11 @@ board:
       interval: 80
       liner:
       - ''
+    14:
+      interval: 80
+      liner:
+      - '&aTPS'
+    15:
+      interval: 80
+      liner:
+      - '%server_tps%'
