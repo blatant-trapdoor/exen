@@ -1,0 +1,61 @@
+moneyprinters:
+  0b2efac7-714d-4e24-9ac6-65504d23bb1e:
+    uuid: 0b2efac7-714d-4e24-9ac6-65504d23bb1e
+    type: Emerald
+    owner: 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+    location:
+      world: Our Mind
+      x: -47.0
+      y: 63.0
+      z: 278.0
+    stored-money: 8160.0
+    total-money-printed: 27360.0
+    health: 320.0
+  dca65c70-8f7d-4900-b4de-876883d2da83:
+    uuid: dca65c70-8f7d-4900-b4de-876883d2da83
+    type: Emerald
+    owner: 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+    location:
+      world: Our Mind
+      x: -47.0
+      y: 63.0
+      z: 277.0
+    stored-money: 8160.0
+    total-money-printed: 27360.0
+    health: 320.0
+  9c0ba2e5-77fa-4048-a737-faea703e45ce:
+    uuid: 9c0ba2e5-77fa-4048-a737-faea703e45ce
+    type: Emerald
+    owner: 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+    location:
+      world: Our Mind
+      x: -47.0
+      y: 63.0
+      z: 276.0
+    stored-money: 8160.0
+    total-money-printed: 8400.0
+    health: 320.0
+  be17d5f6-9f38-49bd-9b59-4a164c200796:
+    uuid: be17d5f6-9f38-49bd-9b59-4a164c200796
+    type: Emerald
+    owner: 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+    location:
+      world: Our Mind
+      x: -47.0
+      y: 63.0
+      z: 275.0
+    stored-money: 8160.0
+    total-money-printed: 8400.0
+    health: 320.0
+  51b488db-3c08-4bd5-adb5-37b87ec14c05:
+    uuid: 51b488db-3c08-4bd5-adb5-37b87ec14c05
+    type: Emerald
+    owner: 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+    location:
+      world: Our Mind
+      x: -47.0
+      y: 63.0
+      z: 274.0
+    stored-money: 8160.0
+    total-money-printed: 8400.0
+    health: 320.0

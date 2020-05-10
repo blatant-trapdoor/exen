@@ -1,0 +1,43 @@
+# ##############################################################################
+# Enchantment: 'ARROW_INFINITE' # Do not change this!
+# name: Infinity
+# enable: true
+# multiple:
+#   enable: false
+#   money: 0.1
+#   level: 0.1
+#   lapis: 0.1
+# 
+# # Infinity will not be available for all of the items in the blacklist
+# blacklisted-items:
+#   - 'DIAMOND_SWORD'
+#   - 'BOW'
+# 
+# # Player will not able to enchant Infinity if their item has below enchantments
+# blacklisted-enchantments:
+#   - 'DAMAGE_ALL'
+# 
+#  levels:
+#    1:
+#      #level 1
+#      money: 1000.0 #Set to 0 as taking no money to enchant
+#      level: 3 # Set to 0 as taking no level to enchant
+#      lapis: 22
+# ##############################################################################
+Enchantment: ARROW_INFINITE
+name: Infinity
+enable: true
+multiple:
+  enable: false
+  money: 0.1
+  level: 0.1
+  lapis: 0.1
+blacklisted-items:
+- ''
+blacklisted-enchantments:
+- ''
+levels:
+  '1':
+    money: 5000.0
+    level: 3
+    lapis: 3

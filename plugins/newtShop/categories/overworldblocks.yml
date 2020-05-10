@@ -1,0 +1,860 @@
+name: '&2Over&1world &fBlocks'
+id: 'overworldblocks'
+display-item:
+  display-type: ITEM
+  material: GRASS_BLOCK
+slot: 0
+sort-type: FILL
+items:  
+  GRASS:
+    buy: 37
+    sell: 7
+    item:
+      type: NORMAL
+      material: GRASS_BLOCK
+  DIRT:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: DIRT
+  COARSE_DIRT:
+    buy: 27
+    sell: 7
+    item:
+      type: NORMAL
+      material: COARSE_DIRT
+  PODZOL:
+    buy: 27
+    sell: 7
+    item:
+      type: NORMAL
+      material: PODZOL
+  MYCELIUM:
+    buy: 41
+    sell: 9
+    item:
+      type: NORMAL
+      material: MYCELIUM
+  GRAVEL:
+    buy: 18
+    sell: 7
+    item:
+      type: NORMAL
+      material: GRAVEL
+  BROWN_MUSHROOM_BLOCK:
+    buy: 20
+    sell: 8
+    item:
+      type: NORMAL
+      material: BROWN_MUSHROOM_BLOCK
+  RED_MUSHROOM_BLOCK:
+    buy: 20
+    sell: 8
+    item:
+      type: NORMAL
+      material: RED_MUSHROOM_BLOCK  
+  MUSHROOM_STEM:
+    buy: 20
+    sell: 8
+    item:
+      type: NORMAL
+      material: MUSHROOM_STEM
+  SAND:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: SAND
+  SANDSTONE:
+    buy: 28
+    sell: 10
+    item:
+      type: NORMAL
+      material: SANDSTONE
+  SANDSTONE_SLAB:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: SANDSTONE_SLAB
+  SANDSTONE_STAIRS:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: SANDSTONE_STAIRS
+  SANDSTONE_WALL:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: SANDSTONE_WALL
+  SMOOTH_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: SMOOTH_SANDSTONE
+  SMOOTH_SANDSTONE_SLAB:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: SMOOTH_SANDSTONE_SLAB
+  SMOOTH_SANDSTONE_STAIRS:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: SMOOTH_SANDSTONE_STAIRS
+  CUT_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: CUT_SANDSTONE
+  CUT_SANDSTONE_SLAB:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: CUT_SANDSTONE_SLAB
+  CHISELED_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: CHISELED_SANDSTONE
+  RED_SAND:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: RED_SAND
+  RED_SANDSTONE:
+    buy: 28
+    sell: 10
+    item:
+      type: NORMAL
+      material: RED_SANDSTONE
+  RED_SANDSTONE_SLAB:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: RED_SANDSTONE_SLAB
+  RED_SANDSTONE_STAIRS:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: RED_SANDSTONE_STAIRS
+  RED_SANDSTONE_WALL:
+    buy: 9
+    sell: 3
+    item:
+      type: NORMAL
+      material: RED_SANDSTONE_WALL
+  SMOOTH_RED_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: SMOOTH_RED_SANDSTONE
+  SMOOTH_RED_SANDSTONE_SLAB:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: SMOOTH_RED_SANDSTONE_SLAB
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: SMOOTH_RED_SANDSTONE_STAIRS
+  CUT_RED_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: CUT_RED_SANDSTONE
+  CUT_RED_SANDSTONE_SLAB:
+    buy: 12
+    sell: 4
+    item:
+      type: NORMAL
+      material: CUT_RED_SANDSTONE_SLAB
+  CHISELED_RED_SANDSTONE:
+    buy: 32
+    sell: 12
+    item:
+      type: NORMAL
+      material: CHISELED_RED_SANDSTONE
+  GLASS:
+    buy: 22
+    sell: 9
+    item:
+      type: NORMAL
+      material: GLASS
+  GLASS_PANE:
+    buy: 10
+    sell: 3
+    item:
+      type: NORMAL
+      material: GLASS_PANE
+  CLAY:
+    buy: 28
+    sell: 8
+    item:
+      type: NORMAL
+      material: CLAY
+  TERRACOTTA:
+    buy: 38
+    sell: 16
+    item:
+      type: NORMAL
+      material: TERRACOTTA
+  BRICKS:
+    buy: 36
+    sell: 10
+    item:
+      type: NORMAL
+      material: BRICKS
+  BRICK_SLAB:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: BRICK_SLAB
+  BRICK_STRAIRS:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: BRICK_STAIRS
+  BRICK_WALL:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: BRICK_WALL
+  SNOW_BLOCK:
+    buy: 14
+    sell: 4
+    item:
+      type: NORMAL
+      material: SNOW_BLOCK
+  ICE:
+    buy: 17
+    sell: 6
+    item:
+      type: NORMAL
+      material: ICE
+  PACKED_ICE:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: PACKED_ICE
+  BLUE_ICE:
+    buy: 20
+    sell: 6
+    item:
+      type: NORMAL
+      material: BLUE_ICE
+  STONE:
+    buy: 38
+    sell: 8
+    item:
+      type: NORMAL
+      material: STONE
+  STONE_SLAB:
+    buy: 15
+    sell: 3
+    item:
+      type: NORMAL
+      material: STONE_SLAB
+  STONE_STAIR:
+    buy: 15
+    sell: 3
+    item:
+      type: NORMAL
+      material: STONE_STAIRS
+  SMOOTH_STONE:
+    buy: 48
+    sell: 9
+    item:
+      type: NORMAL
+      material: SMOOTH_STONE
+  SMOOTH_STONE_SLAB:
+    buy: 19
+    sell: 5
+    item:
+      type: NORMAL
+      material: SMOOTH_STONE_SLAB
+  STONE_BRICKS:
+    buy: 42
+    sell: 9
+    item:
+      type: NORMAL
+      material: STONE_BRICKS
+  STONE_BRICK_SLABS:
+    buy: 16
+    sell: 4
+    item:
+      type: NORMAL
+      material: STONE_BRICK_SLAB
+  STONE_BRICK_STAIRS:
+    buy: 16
+    sell: 4
+    item:
+      type: NORMAL
+      material: STONE_BRICK_STAIRS
+  STONE_BRICK_WALL:
+    buy: 16
+    sell: 4
+    item:
+      type: NORMAL
+      material: STONE_BRICK_WALL
+  CHISELED_STONE_BRICKS:
+    buy: 46
+    sell: 4
+    item:
+      type: NORMAL
+      material: CHISELED_STONE_BRICKS
+  CRACKED_STONE_BRICKS:
+    buy: 46
+    sell: 4
+    item:
+      type: NORMAL
+      material: CRACKED_STONE_BRICKS
+  MOSSY_STONE_BRICKS:
+    buy: 47
+    sell: 5
+    item:
+      type: NORMAL
+      material: MOSSY_STONE_BRICKS
+  MOSSY_STONE_BRICK_SLAB:
+    buy: 17
+    sell: 5
+    item:
+      type: NORMAL
+      material: MOSSY_STONE_BRICK_SLAB
+  MOSSY_STONE_BRICK_STAIRS:
+    buy: 17
+    sell: 5
+    item:
+      type: NORMAL
+      material: MOSSY_STONE_BRICK_STAIRS
+  MOSSY_STONE_BRICK_WALL:
+    buy: 17
+    sell: 5
+    item:
+      type: NORMAL
+      material: MOSSY_STONE_BRICK_WALL
+  COBBLESTONE:
+    buy: 16
+    sell: 4
+    item:
+      type: NORMAL
+      material: COBBLESTONE
+  COBBLESTONE_SLAB:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: COBBLESTONE_SLAB
+  COBBLESTONE_STAIRS:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: COBBLESTONE_STAIRS
+  COBBLESTONE_WALL:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: COBBLESTONE_WALL
+  MOSSY_COBBLESTONE:
+    buy: 17
+    sell: 4
+    item:
+      type: NORMAL
+      material: MOSSY_COBBLESTONE
+  MOSSY_COBBLESTONE_SLAB:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: MOSSY_COBBLESTONE_SLAB
+  MOSSY_COBBLESTONE_STAIRS:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: MOSSY_COBBLESTONE_STAIRS
+  MOSSY_COBBLESTONE_WALL:
+    buy: 4
+    sell: 1
+    item:
+      type: NORMAL
+      material: MOSSY_COBBLESTONE_WALL
+  GRANITE:
+    buy: 29
+    sell: 9
+    item:
+      type: NORMAL
+      material: GRANITE
+  GRANITE_SLAB:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: GRANITE_SLAB
+  GRANITE_STAIRS:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: GRANITE_STAIRS
+  GRANITE_WALL:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: GRANITE_WALL
+  POLISHED_GRANITE:
+    buy: 32
+    sell: 10
+    item:
+      type: NORMAL
+      material: POLISHED_GRANITE
+  POLISHED_GRANITE_SLAB:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_GRANITE_SLAB
+  POLISHED_GRANITE_STAIRS:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_GRANITE_STAIRS
+  ANDESITE:
+    buy: 29
+    sell: 9
+    item:
+      type: NORMAL
+      material: ANDESITE
+  ANDESITE_SLAB:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: ANDESITE_SLAB
+  ANDESITE_STAIRS:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: ANDESITE_STAIRS
+  ANDESITE_WALL:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: ANDESITE_WALL
+  POLISHED_ANDESITE:
+    buy: 32
+    sell: 10
+    item:
+      type: NORMAL
+      material: POLISHED_ANDESITE
+  POLISHED_ANDESITE_SLAB:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_ANDESITE_SLAB
+  POLISHED_ANDESITE_STAIRS:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_ANDESITE_STAIRS
+  DIORITE:
+    buy: 29
+    sell: 9
+    item:
+      type: NORMAL
+      material: DIORITE
+  DIORITE_SLAB:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: DIORITE_SLAB
+  DIORITE_STAIRS:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: DIORITE_STAIRS
+  DIORITE_WALL:
+    buy: 7
+    sell: 3
+    item:
+      type: NORMAL
+      material: DIORITE_WALL
+  POLISHED_DIORITE:
+    buy: 32
+    sell: 10
+    item:
+      type: NORMAL
+      material: POLISHED_DIORITE
+  POLISHED_DIORITE_SLAB:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_DIORITE_SLAB
+  POLISHED_DIORITE_STAIRS:
+    buy: 11
+    sell: 4
+    item:
+      type: NORMAL
+      material: POLISHED_DIORITE_STAIRS
+  OBSIDIAN:
+    buy: 324
+    sell: 29
+    item:
+      type: NORMAL
+      material: OBSIDIAN
+  OAK_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: OAK_LOG
+  OAK_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: OAK_WOOD
+  STRIPPED_OAK_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_OAK_LOG
+  STRIPPED_OAK_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_OAK_WOOD
+  OAK_WOOD_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: OAK_PLANKS
+  OAK_WOOD_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: OAK_SLAB
+  OAK_WOOD_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: OAK_STAIRS
+  OAK_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: OAK_FENCE
+  OAK_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: OAK_FENCE_GATE
+  DARK_OAK_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: DARK_OAK_LOG
+  DARK_OAK_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: DARK_OAK_WOOD
+  STRIPPED_DARK_OAK_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_DARK_OAK_LOG
+  STRIPPED_DARK_OAK_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_DARK_OAK_WOOD
+  DARK_OAK_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: DARK_OAK_PLANKS
+  DARK_OAK_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: DARK_OAK_SLAB
+  DARK_OAK_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: DARK_OAK_STAIRS
+  DARK_OAK_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: DARK_OAK_FENCE
+  DARK_OAK_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: DARK_OAK_FENCE_GATE
+  BIRCH_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: BIRCH_LOG
+  BIRCH_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: BIRCH_WOOD
+  STRIPPED_BIRCH_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_BIRCH_LOG
+  STRIPPED_BIRCH_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_BIRCH_WOOD
+  BIRCH_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: BIRCH_PLANKS
+  BIRCH_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: BIRCH_SLAB
+  BIRCH_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: BIRCH_STAIRS
+  BIRCH_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: BIRCH_FENCE
+  BIRCH_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: BIRCH_FENCE_GATE
+  SPRUCE_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: SPRUCE_LOG
+  SPRUCE_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: SPRUCE_WOOD
+  STRIPPED_SPRUCE_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_SPRUCE_LOG
+  STRIPPED_SPRUCE_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_SPRUCE_WOOD
+  SPRUCE_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: SPRUCE_PLANKS
+  SPRUCE_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: SPRUCE_SLAB
+  SPRUCE_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: SPRUCE_STAIRS
+  SPRUCE_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: SPRUCE_FENCE
+  SPRUCE_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: SPRUCE_FENCE_GATE
+  ACACIA_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: ACACIA_LOG
+  ACAIA_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: ACACIA_WOOD
+  STRIPPED_ACACIA_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_ACACIA_LOG
+  STRIPPED_ACACIA_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_ACACIA_WOOD
+  ACACIA_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: ACACIA_PLANKS
+  ACACIA_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: ACACIA_SLAB
+  ACACIA_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: ACACIA_STAIRS
+  ACACIA_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: ACACIA_FENCE
+  ACACIA_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: ACACIA_FENCE_GATE
+  JUNGLE_LOG:
+    buy: 36
+    sell: 12
+    item:
+      type: NORMAL
+      material: JUNGLE_LOG
+  JUNGLE_WOOD:
+    buy: 38
+    sell: 12
+    item:
+      type: NORMAL
+      material: JUNGLE_WOOD
+  STRIPPED_JUNGLE_LOG:
+    buy: 40
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_JUNGLE_LOG
+  STRIPPED_JUNGLE_WOOD:
+    buy: 42
+    sell: 12
+    item:
+      type: NORMAL
+      material: STRIPPED_JUNGLE_WOOD
+  JUNGLE_PLANKS:
+    buy: 12
+    sell: 3
+    item:
+      type: NORMAL
+      material: JUNGLE_PLANKS
+  JUNGLE_SLAB:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: JUNGLE_SLAB
+  JUNGLE_STAIRS:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: JUNGLE_STAIRS
+  JUNGLE_FENCE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: JUNGLE_FENCE
+  JUNGLE_FENCE_GATE:
+    buy: 3
+    sell: 1
+    item:
+      type: NORMAL
+      material: JUNGLE_FENCE_GATE

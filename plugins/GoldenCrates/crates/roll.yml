@@ -1,0 +1,87 @@
+name: §eRoll Crate
+type: ITEM_CRATE
+template: roll
+cooldown: 30
+attached-citizens: ''
+item:
+  material: ENDER_CHEST:0:1
+  name: '&eRoll Crate &7(Right-Click)'
+  lore:
+  - '&7This is &eRoll &7crate.'
+  enchanted: true
+  item-flags: []
+  unbreakable: false
+key:
+  required: false
+  virtual: false
+  item:
+    material: TRIPWIRE_HOOK:0:1
+    name: '&eRoll Crate Key'
+    lore:
+    - '&7This key opens a &eRoll Crate&7.'
+    enchanted: true
+    item-flags: []
+    unbreakable: false
+block:
+  pushback:
+    enabled: true
+    modifiers:
+      x: 1.0
+      y: 1.0
+      z: 1.0
+  hologram:
+    enabled: false
+    text:
+    - §c§lROLL CRATE
+    - §7Get the key at §cwww.myserver.com
+menu:
+  menu-id: example_menu
+  item:
+    material: ENDER_CHEST
+    name: §eRoll Crate
+    lore:
+    - '§f» §7You have: §f%keys% keys§7.'
+    - '§f» §7Open cost: §f%cost%$'
+    enchanted: true
+    skull-hash: ''
+  open-cost: 0.0
+  slot: 22
+effects:
+  STATIC:
+    type: SIMPLE
+    particle: FLAME
+    sound: NONE
+  USE:
+    type: NONE
+    particle: NONE
+    sound: NONE
+  OPEN:
+    type: FIREWORK
+    particle: FLAME
+    sound: ENTITY_FIREWORK_ROCKET_BLAST
+rewards:
+  broadcast: false
+  min: 1
+  max: 1
+  list:
+    '0':
+      name: '§eNew Reward #0'
+      chance: 25.0
+      cmds:
+      - '[CONSOLE] eco give %player% 10'
+      item: 1800020009km800fdlkmspb3e9gmct1qdlimorre0400agrfeln78080
+      preview: 1800020009km800fdlkmspb3e9gmct1qdlimorre0400agrfeln78080
+    '1':
+      name: '§eNew Reward #1'
+      chance: 20.0
+      cmds:
+      - '[CONSOLE] eco give %player% 10'
+      item: 2g0004000j9cg012rb9dpim6sj1cpq3ks3ldlo6mqbe0400agrfeln78080
+      preview: 2g0004000j9cg012rb9dpim6sj1cpq3ks3ldlo6mqbe0400agrfeln78080
+    '2':
+      name: '§eNew Reward #2'
+      chance: 15.0
+      cmds:
+      - '[CONSOLE] eco give %player% 10'
+      item: 2g0004000j9cg01mrb9dpim6sj1cpq3krj5ehk6asivetgn4t2vc9m6uorb0400agrfeln78080
+      preview: 2g0004000j9cg01mrb9dpim6sj1cpq3krj5ehk6asivetgn4t2vc9m6uorb0400agrfeln78080

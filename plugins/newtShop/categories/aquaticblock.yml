@@ -1,0 +1,74 @@
+name: '&5Aquatic Blocks'
+id: 'ingredients'
+display-item:
+  display-type: ITEM
+  material: PRISMARINE
+slot: 19
+sort-type: FILL
+items:
+  PRISMARINE:
+    buy: 47
+    sell: 12
+    item:
+      type: NORMAL
+      material: PRISMARINE
+  PRISMARINE_SLAB:
+    buy: 19
+    sell: 5
+    item:
+      type: NORMAL
+      material: PRISMARINE_SLAB
+  PRISMARINE_STAIRS:
+    buy: 19
+    sell: 5
+    item:
+      type: NORMAL
+      material: PRISMARINE_STAIRS
+  PRISMARINE_WALL:
+    buy: 19
+    sell: 5
+    item:
+      type: NORMAL
+      material: PRISMARINE_WALL
+  PRISMARINE_BRICKS:
+    buy: 54
+    sell: 14
+    item:
+      type: NORMAL
+      material: PRISMARINE_BRICKS
+  PRISMARINE_BRICK_SLAB:
+    buy: 22
+    sell: 5
+    item:
+      type: NORMAL
+      material: PRISMARINE_BRICK_SLAB
+  PRISMARINE_BRICK_STAIRS:
+    buy: 22
+    sell: 5
+    item:
+      type: NORMAL
+      material: PRISMARINE_BRICK_STAIRS
+  DARK_PRISMARINE:
+    buy: 60
+    sell: 18
+    item:
+      type: NORMAL
+      material: DARK_PRISMARINE
+  DARK_PRISMARINE_SLAB:
+    buy: 28
+    sell: 6
+    item:
+      type: NORMAL
+      material: DARK_PRISMARINE_SLAB
+  DARK_PRISMARINE_STAIRS:
+    buy: 28
+    sell: 6
+    item:
+      type: NORMAL
+      material: DARK_PRISMARINE_STAIRS
+  SEA_LANTERN:
+    buy: 30
+    sell: 6
+    item:
+      type: NORMAL
+      material: SEA_LANTERN

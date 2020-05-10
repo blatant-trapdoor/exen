@@ -1,0 +1,6 @@
+PortalMaterial: EMERALD_BLOCK
+PortalActivators:
+- REDSTONE_BLOCK
+- GOLD_BLOCK
+- DIAMOND_BLOCK
+Debug: false

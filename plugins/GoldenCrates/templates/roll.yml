@@ -1,0 +1,46 @@
+title: 'Roll Crate'
+size: 27
+time:
+  update-ticks: 2
+  roll-second: 0.1
+  finish-second: 7
+roll-sound: 'BLOCK_NOTE_BLOCK_BELL'
+reward-slots: '4,13,22'
+win-slot: 13
+custom-content:
+  panes_1:
+    material: 'RED_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '0,9,18'
+  panes_2:
+    material: 'ORANGE_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '1,2,10,11,19,20'
+  panes_3:
+    material: 'YELLOW_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '3,12,21'
+  panes_red_2:
+    material: 'RED_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '5,14,23'
+  panes_orange_2:
+    material: 'ORANGE_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '6,7,15,16,24,25'
+  panes_yellow_2:
+    material: 'YELLOW_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '8,17,26'

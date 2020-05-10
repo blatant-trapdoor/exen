@@ -1,0 +1,14 @@
+name: '&5Fun'
+id: 'fun'
+display-item:
+  display-type: ITEM
+  material: SNOWBALL
+slot: 17
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

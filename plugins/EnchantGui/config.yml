@@ -1,0 +1,34 @@
+# If the plugin is not up-to-date, you will get a notification when you join the server.
+check-update: true
+
+prefix: '&a[&bEnchantGui&a] '
+
+#Player are only allowed to open the "EnchantGui" only if the enchanting table was placed by an admin.
+Only-Admin-EnchantTable: true
+
+# If enabled, the GUI will be closed when player is trying to enchant but they don't have enough money/level.
+CloseInventoryWhenNotEnoughCurrency: true
+
+# If enabled, player requires every single enchantment permission (such as enchantgui.enchantments.DAMAGE_ALL) to enchant.
+# Note: enchantgui.enchantment.ALL to access all the enchantments.
+# the permission above only player can access to all enchantments but not level. (If PermissionForEachEnchantmentLevel is enabled).
+# If you want to give player the permission that access to all Enchantments and level , give "enchantgui.enchantment.*" permission to them.
+PermissionForEachEnchantment: false
+
+# If enabled, player requires every single enchantments level (such as enchantgui.enchantment.DAMAGE_ALL.<level>) to enchant.
+PermissionForEachEnchantmentLevel: false
+
+# A server restart is required if enable/disable this
+alias-commands:
+  enable: false
+  commands:
+    - upgrade
+
+Message:
+  Successful-Enchant-Item: '&aYou have sucessfully enchanted &6{ENCHANTMENT} &einto your {ITEM}'
+  Not-Enough-Money: '&cYou don''t have enough money to enchant!'
+  Not-Enough-Level: '&cYou don''t have enough level to enchant!'
+  Not-Enough-Lapis: '&cYou don''t have enough lapis to enchant!'
+  No-Enchantment-Permission: '&cYou don''t have permission to enchant this!'
+  No-Enchantment-Level-Permission: '&cYou don''t have permission to enchant this level!'
+  No-Permission: '&cYou don''t have permission to do this!'

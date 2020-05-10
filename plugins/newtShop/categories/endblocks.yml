@@ -1,0 +1,62 @@
+name: '&eEnd &fBlocks'
+id: 'endblocks'
+display-item:
+   display-type: ITEM
+   material: 'END_STONE'
+slot: 2
+sort-type: 'FILL'
+items:
+  END_STONE:
+    buy: 58
+    sell: 8
+    item:
+      type: NORMAL
+      material: END_STONE
+  END_STONE_BRICKS:
+    buy: 68
+    sell: 12
+    item:
+      type: NORMAL
+      material: END_STONE_BRICKS
+  END_STONE_BRICK_SLAB:
+    buy: 27
+    sell: 5
+    item:
+      type: NORMAL
+      material: END_STONE_BRICK_SLAB
+  END_STONE_BRICK_STAIRS:
+    buy: 27
+    sell: 5
+    item:
+      type: NORMAL
+      material: END_STONE_BRICK_STAIRS
+  END_STONE_BRICK_WALL:
+    buy: 27
+    sell: 5
+    item:
+      type: NORMAL
+      material: END_STONE_BRICK_WALL
+  PURPUR_BLOCK:
+    buy: 74
+    sell: 17
+    item:
+      type: NORMAL
+      material: PURPUR_BLOCK
+  PURPUR_SLAB:
+    buy: 34
+    sell: 7
+    item:
+      type: NORMAL
+      material: PURPUR_SLAB
+  PURPUR_STAIRS:
+    buy: 34
+    sell: 7
+    item:
+      type: NORMAL
+      material: PURPUR_STAIRS
+  PURPUR_PILLAR:
+    buy: 36
+    sell: 8
+    item:
+      type: NORMAL
+      material: PURPUR_PILLAR

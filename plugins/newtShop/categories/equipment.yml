@@ -1,0 +1,465 @@
+name: '&9Equipment'
+id: 'equipment'
+display-item:
+  display-type: ITEM
+  material: IRON_CHESTPLATE
+slot: 8
+sort-type: SET
+pages: 4
+items:
+
+#weapons
+  WOODEN_SWORD:
+    buy: 24
+    sell: 5
+    item:
+      type: NORMAL
+      material: WOODEN_SWORD
+      slot: 2
+      page: 1
+  STONE_SWORD:
+    buy: 30
+    sell: 5
+    item:
+      type: NORMAL
+      material: STONE_SWORD
+      slot: 3
+      page: 1
+  IRON_SWORD:
+    buy: 178
+    sell: 24
+    item:
+      type: NORMAL
+      material: IRON_SWORD
+      slot: 4
+      page: 1
+  GOLDEN_SWORD:
+    buy: 272
+    sell: 5
+    item:
+      type: NORMAL
+      material: GOLDEN_SWORD
+      slot: 5
+      page: 1
+  DIAMOND_SWORD:
+    buy: 624
+    sell: 5
+    item:
+      type: NORMAL
+      material: DIAMOND_SWORD
+      slot: 6
+      page: 1
+  SHIELD:
+    buy: 210
+    sell: 24
+    item:
+      type: NORMAL
+      material: SHIELD
+      slot: 13
+      page: 1
+  BOW:
+    buy: 78
+    sell: 5
+    item:
+      type: NORMAL
+      material: BOW
+      slot: 21
+      page: 1
+  CROSSBOW:
+    buy: 118
+    sell: 5
+    item:
+      type: NORMAL
+      material: CROSSBOW
+      slot: 23
+      page: 1
+  ARROW:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: ARROW
+      slot: 30
+      page: 1
+  FIREWORK_ROCK:
+    buy: 84
+    sell: 18
+    item:
+      type: NORMAL
+      material: FIREWORK_ROCKET
+      slot: 32
+      page: 1
+  TRIDENT:
+    buy: 165
+    sell: 36
+    item:
+      type: NORMAL
+      material: TRIDENT
+      slot: 40
+      page: 1
+
+#tools
+  WOODEN_PICKAXE:
+    buy: 28
+    sell: 5
+    item:
+      type: NORMAL
+      material: WOODEN_PICKAXE
+      slot: 2
+      page: 2
+  WOODEN_AXE:
+    buy: 28
+    sell: 5
+    item:
+      type: NORMAL
+      material: WOODEN_AXE
+      slot: 11
+      page: 2
+  WOODEN_SHOVEL:
+    buy: 22
+    sell: 5
+    item:
+      type: NORMAL
+      material: WOODEN_SHOVEL
+      slot: 20
+      page: 2
+  WOODEN_HOE:
+    buy: 24
+    sell: 5
+    item:
+      type: NORMAL
+      material: WOODEN_HOE
+      slot: 29
+      page: 2
+  STONE_PICKAXE:
+    buy: 34
+    sell: 5
+    item:
+      type: NORMAL
+      material: STONE_PICKAXE
+      slot: 3
+      page: 2
+  STONE_AXE:
+    buy: 34
+    sell: 5
+    item:
+      type: NORMAL
+      material: STONE_AXE
+      slot: 12
+      page: 2
+  STONE_SHOVEL:
+    buy: 28
+    sell: 5
+    item:
+      type: NORMAL
+      material: STONE_SHOVEL
+      slot: 21
+      page: 2
+  STONE_HOE:
+    buy: 30
+    sell: 5
+    item:
+      type: NORMAL
+      material: STONE_HOE
+      slot: 30
+      page: 2
+  IRON_PICKAXE:
+    buy: 194
+    sell: 32
+    item:
+      type: NORMAL
+      material: IRON_PICKAXE
+      slot: 4
+      page: 2
+  IRON_AXE:
+    buy: 194
+    sell: 32
+    item:
+      type: NORMAL
+      material: IRON_AXE
+      slot: 13
+      page: 2 
+  IRON_SHOVEL:
+    buy: 104
+    sell: 16
+    item:
+      type: NORMAL
+      material: IRON_SHOVEL
+      slot: 22
+      page: 2
+  IRON_HOE:
+    buy: 176
+    sell: 18
+    item:
+      type: NORMAL
+      material: IRON_HOE
+      slot: 31
+      page: 2
+  GOLDEN_PICKAXE:
+    buy: 404
+    sell: 42
+    item:
+      type: NORMAL
+      material: GOLDEN_PICKAXE
+      slot: 5
+      page: 2
+  GOLDEN_AXE:
+    buy: 404
+    sell: 42
+    item:
+      type: NORMAL
+      material: GOLDEN_AXE
+      slot: 14
+      page: 2 
+  GOLDEN_SHOVEL:
+    buy: 148
+    sell: 38
+    item:
+      type: NORMAL
+      material: GOLDEN_SHOVEL
+      slot: 23
+      page: 2
+  GOLDEN_HOE:
+    buy: 286
+    sell: 42
+    item:
+      type: NORMAL
+      material: GOLDEN_HOE
+      slot: 32
+      page: 2
+  DIAMOND_PICKAXE:
+    buy: 948
+    sell: 124
+    item:
+      type: NORMAL
+      material: DIAMOND_PICKAXE
+      slot: 6
+      page: 2
+  DIAMOND_AXE:
+    buy: 928
+    sell: 124
+    item:
+      type: NORMAL
+      material: DIAMOND_AXE
+      slot: 15
+      page: 2 
+  DIAMOND_SHOVEL:
+    buy: 310
+    sell: 70
+    item:
+      type: NORMAL
+      material: DIAMOND_SHOVEL
+      slot: 24
+      page: 2
+  DIAMOND_HOE:
+    buy: 620
+    sell: 28
+    item:
+      type: NORMAL
+      material: DIAMOND_HOE
+      slot: 33
+      page: 2
+
+#armor
+  LEATHER_HELMET:
+    buy: 108
+    sell: 15
+    item:
+      type: NORMAL
+      material: LEATHER_HELMET
+      slot: 1
+      page: 3
+  LEATHER_CHESTPLATE:
+    buy: 124
+    sell: 15
+    item:
+      type: NORMAL
+      material: LEATHER_CHESTPLATE
+      slot: 10
+      page: 3
+  LEATHER_LEGGINGS:
+    buy: 114
+    sell: 15
+    item:
+      type: NORMAL
+      material: LEATHER_LEGGINGS
+      slot: 19
+      page: 3
+  LEATHER_BOOTS:
+    buy: 102
+    sell: 15
+    item:
+      type: NORMAL
+      material: LEATHER_BOOTS
+      slot: 28
+      page: 3
+  IRON_HELMET:
+    buy: 405
+    sell: 45
+    item:
+      type: NORMAL
+      material: IRON_HELMET
+      slot: 3
+      page: 3
+  IRON_CHESTPLATE:
+    buy: 640
+    sell: 45
+    item:
+      type: NORMAL
+      material: IRON_CHESTPLATE
+      slot: 12
+      page: 3
+  IRON_LEGGINGS:
+    buy: 560
+    sell: 45
+    item:
+      type: NORMAL
+      material: IRON_LEGGINGS
+      slot: 21
+      page: 3
+  IRON_BOOTS:
+    buy: 325
+    sell: 45
+    item:
+      type: NORMAL
+      material: IRON_BOOTS
+      slot: 30
+      page: 3
+  TURTLE_HELMET:
+    buy: 105
+    sell: 12
+    item:
+      type: NORMAL
+      material: TURTLE_HELMET
+      slot: 5
+      page: 3
+  GOLDEN_HELMET:
+    buy: 720
+    sell: 65
+    item:
+      type: NORMAL
+      material: GOLDEN_HELMET
+      slot: 5
+      page: 3
+  GOLDEN_CHESTPLATE:
+    buy: 1240
+    sell: 65
+    item:
+      type: NORMAL
+      material: GOLDEN_CHESTPLATE
+      slot: 14
+      page: 3
+  GOLDEN_LEGGINGS:
+    buy: 960
+    sell: 65
+    item:
+      type: NORMAL
+      material: GOLDEN_LEGGINGS
+      slot: 23
+      page: 3
+  GOLDEN_BOOTS:
+    buy: 530
+    sell: 65
+    item:
+      type: NORMAL
+      material: GOLDEN_BOOTS
+      slot: 32
+      page: 3
+  DIAMOND_HELMET:
+    buy: 1640
+    sell: 320
+    item:
+      type: NORMAL
+      material: DIAMOND_HELMET
+      slot: 7
+      page: 3
+  DIAMOND_CHESTPLATE:
+    buy: 2540
+    sell: 540
+    item:
+      type: NORMAL
+      material: DIAMOND_CHESTPLATE
+      slot: 16
+      page: 3
+  DIAMOND_LEGGINGS:
+    buy: 2160
+    sell: 400
+    item:
+      type: NORMAL
+      material: DIAMOND_LEGGINGS
+      slot: 25
+      page: 3
+  DIAMOND_BOOTS:
+    buy: 1240
+    sell: 280
+    item:
+      type: NORMAL
+      material: DIAMOND_BOOTS
+      slot: 34
+      page: 3
+
+#utilities
+  FISHING_ROD:
+    buy: 94
+    sell: 14
+    item:
+      type: NORMAL
+      material: FISHING_ROD
+      slot: 1
+      page: 4
+  SHEARS:
+    buy: 144
+    sell: 18
+    item:
+      type: NORMAL
+      material: SHEARS
+      slot: 2
+      page: 4
+  COMPASS:
+    buy: 264
+    sell: 24
+    item:
+      type: NORMAL
+      material: COMPASS
+      slot: 19
+      page: 4
+  CLOCK:
+    buy: 624
+    sell: 40
+    item:
+      type: NORMAL
+      material: CLOCK  
+      slot: 20
+      page: 4
+  LEAD:
+    buy: 78
+    sell: 12
+    item:
+      type: NORMAL
+      material: LEAD
+      slot: 4
+      page: 4
+  NAME_TAG:
+    buy: 240
+    sell: 12
+    item:
+      type: NORMAL
+      material: NAME_TAG
+      slot: 5
+      page: 4
+  WATER_BUCKET:
+    buy: 256
+    sell: 12
+    item:
+      type: NORMAL
+      material: WATER_BUCKET
+      slot: 22
+      page: 4
+  LAVA_BUCKET:
+    buy: 268
+    sell: 12
+    item:
+      type: NORMAL
+      material: LAVA_BUCKET
+      slot: 23
+      page: 4

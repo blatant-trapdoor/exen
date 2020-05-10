@@ -1,0 +1,4 @@
+generator:
+  count: 5
+  generate: SPELL_WITCH
+  spew: DRAGON_BREATH

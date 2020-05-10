@@ -1,0 +1,553 @@
+[05:33:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[05:33:43] [Server thread/INFO]: Loading properties
+[05:33:43] [Server thread/INFO]: This server is running Paper version git-Paper-260 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[05:33:43] [Server thread/INFO]: Debug logging is disabled
+[05:33:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:33:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:33:44] [Server thread/INFO]: Default game type: SURVIVAL
+[05:33:44] [Server thread/INFO]: Generating keypair
+[05:33:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:33:44] [Server thread/INFO]: Using default channel type
+[05:33:46] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:33:51] [Server thread/WARN]: Legacy plugin 32K v1.0 does not specify an api-version.
+[05:33:51] [Server thread/WARN]: Legacy plugin Trash v4.0 does not specify an api-version.
+[05:33:51] [Server thread/WARN]: Legacy plugin XP-Deposit v4.3.1 does not specify an api-version.
+[05:33:51] [Server thread/WARN]: Legacy plugin BuildPortals v1.20.68 does not specify an api-version.
+[05:33:51] [Server thread/WARN]: Legacy plugin Scoreboard-revision vR3 1.4.2 RELEASE does not specify an api-version.
+[05:33:51] [Server thread/WARN]: Legacy plugin VaultChatFormatter v1.0-SNAPSHOT does not specify an api-version.
+[05:33:52] [Server thread/WARN]: Legacy plugin CustomHeads v3.0.1 does not specify an api-version.
+[05:33:52] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[05:33:52] [Server thread/INFO]: [32K] Loading 32K v1.0
+[05:33:52] [Server thread/INFO]: [Trash] Loading Trash v4.0
+[05:33:52] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.6
+[05:33:52] [Server thread/INFO]: [newtLib] Loading newtLib v1.5.0
+[05:33:52] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
+[05:33:52] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[05:33:52] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
+[05:33:54] [Server thread/INFO]: [SpawnerSilk] Loading SpawnerSilk v3.2
+[05:33:54] [Server thread/INFO]: [ShulkerRespawner] Loading ShulkerRespawner v1.13_1.0.5
+[05:33:54] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.127-SNAPSHOT
+[05:33:54] [Server thread/INFO]: [UltimateCatcher] Loading UltimateCatcher v1.3.4
+[05:33:54] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[05:33:54] [Server thread/INFO]: [XP-Deposit] Loading XP-Deposit v4.3.1
+[05:33:54] [Server thread/INFO]: [BuildPortals] Loading BuildPortals v1.20.68
+[05:33:54] [Server thread/INFO]: [Scoreboard-revision] Loading Scoreboard-revision vR3 1.4.2 RELEASE
+[05:33:54] [Server thread/INFO]: [VaultChatFormatter] Loading VaultChatFormatter v1.0-SNAPSHOT
+[05:33:54] [Server thread/INFO]: [PlayerWarps] Loading PlayerWarps v5.0.9
+[05:33:54] [Server thread/INFO]: [Jobs] Loading Jobs v4.15.10
+[05:33:54] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.1
+[05:33:54] [Server thread/INFO]: [QuickShop] Loading QuickShop v4.0.2.6
+[05:33:54] [Server thread/INFO]: [QuickShop] Loading up integration modules.
+[05:33:55] [Server thread/INFO]: [EnchantGui] Loading EnchantGui v3.1.3
+[05:33:55] [Server thread/INFO]: [newtShop] Loading newtShop v2.0.3
+[05:33:55] [Server thread/INFO]: [CustomHeads] Loading CustomHeads v3.0.1
+[05:33:55] [Server thread/INFO]: [FogusCore] Loading FogusCore v1.9.9
+[05:33:55] [Server thread/INFO]: [PhantomEconomy] Loading PhantomEconomy v1.9.17-RELEASE
+[05:33:55] [Server thread/INFO]: [HolographicPlaceholders] Loading HolographicPlaceholders v2.0.1 Beta
+[05:33:55] [Server thread/INFO]: [UltimateClaims] Loading UltimateClaims v1.2.5
+[05:33:55] [Server thread/INFO]: [ItemJoin] Loading ItemJoin v5.0.6-RELEASE-b395
+[05:33:55] [Server thread/INFO]: [RetrosGenerators] Loading RetrosGenerators v1.3-SNAPSHOT
+[05:33:55] [Server thread/INFO]: [UltimateKits] Loading UltimateKits v2.6.4
+[05:33:55] [Server thread/INFO]: [MoneyPrinters] Loading MoneyPrinters v1.2.8
+[05:33:55] [Server thread/INFO]: [GoldenCrates] Loading GoldenCrates v3.7.5.1
+[05:33:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[05:33:55] [Server thread/INFO]:         __    
+[05:33:55] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[05:33:55] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:33:55] [Server thread/INFO]: 
+[05:33:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:33:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:33:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:33:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:33:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4669ms)
+[05:33:59] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[05:33:59] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[05:33:59] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[05:33:59] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:33:59] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[05:33:59] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[05:33:59] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:33:59] [Server thread/INFO]: [FogusCore] Enabling FogusCore v1.9.9
+[05:33:59] [Server thread/WARN]: [FogusCore] *** DISCLAIMER ***
+[05:33:59] [Server thread/WARN]: [FogusCore] > You're running an unofficial Spigot fork.
+[05:33:59] [Server thread/WARN]: [FogusCore] > ONLY OFFICIAL SPIGOT (spigotmc.org) IS SUPPORTED!
+[05:33:59] [Server thread/WARN]: [FogusCore] > You won't get any support for any issues unless they are persists on regular Spigot.
+[05:33:59] [Server thread/INFO]: [FogusCore] Loaded NMS version: V1_15_R1
+[05:34:00] [Server thread/INFO]: [FogusCore] Successfully hooked with LuckPerms permissions
+[05:34:00] [Server thread/INFO]: [FogusCore] Successfully hooked with LuckPerms chat
+[05:34:00] [Server thread/INFO]: [FogusCore] [Hook] Vault: Success!
+[05:34:00] [Server thread/INFO]: [FogusCore] Plugin loaded in 539 ms!
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Enabling PhantomEconomy v1.9.17-RELEASE
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] --+-- Enabling Began --+--
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Checking for incompatibilities...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Server is running supported version git-Paper-260 (MC: 1.15.2).
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Towny isn't installed. Towny compatibility disabled.
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Loading files...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Registering events...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Registering commands...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Hooking to Vault...
+[05:34:00] [Server thread/INFO]: [FogusCore] Successfully hooked with PhantomEconomy economy
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Hooked to Vault successfuly.
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Starting bStats metrics...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] Starting baltop update task...
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] --+-- Enabling Complete --+--
+[05:34:00] [Server thread/INFO]: [PhantomEconomy] [Update Checker] Starting version comparison...
+[05:34:00] [Server thread/INFO]: Preparing level "Our Mind"
+[05:34:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[05:34:01] [Server thread/INFO]: Loaded 6 recipes
+[05:34:02] [Server thread/INFO]: -------- World Settings For [Our Mind] --------
+[05:34:02] [Server thread/INFO]: View Distance: 8
+[05:34:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:34:02] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:34:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:34:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:34:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:34:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:34:02] [Server thread/INFO]: Mob Spawn Range: 8
+[05:34:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:34:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:34:02] [Server thread/INFO]: Max TNT Explosions: 100
+[05:34:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:34:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:34:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:34:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:34:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[05:34:03] [Server thread/INFO]: -------- World Settings For [Our Mind_nether] --------
+[05:34:03] [Server thread/INFO]: View Distance: 8
+[05:34:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:34:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:34:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:34:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:34:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:34:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:34:03] [Server thread/INFO]: Mob Spawn Range: 8
+[05:34:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:34:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Max TNT Explosions: 100
+[05:34:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:34:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:34:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:34:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:34:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[05:34:03] [Server thread/INFO]: -------- World Settings For [Our Mind_the_end] --------
+[05:34:03] [Server thread/INFO]: View Distance: 8
+[05:34:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:34:03] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:34:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:34:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:34:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:34:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:34:03] [Server thread/INFO]: Mob Spawn Range: 8
+[05:34:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:34:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:34:03] [Server thread/INFO]: Max TNT Explosions: 100
+[05:34:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:34:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:34:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:34:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:34:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[05:34:03] [Server thread/INFO]: Preparing start region for dimension 'Our Mind'/minecraft:overworld
+[05:34:03] [Paper RegionFile IO Thread/INFO]: [RegionFile] Using Java 8 DirectByteBuffer cleanup method
+[05:34:03] [Server thread/INFO]: Loaded 0 spawn chunks for world Our Mind
+[05:34:03] [Server thread/INFO]: Time elapsed: 393 ms
+[05:34:03] [Server thread/INFO]: Preparing start region for dimension 'Our Mind_nether'/minecraft:the_nether
+[05:34:04] [Server thread/INFO]: Loaded 0 spawn chunks for world Our Mind_nether
+[05:34:04] [Server thread/INFO]: Time elapsed: 350 ms
+[05:34:04] [Server thread/INFO]: Preparing start region for dimension 'Our Mind_the_end'/minecraft:the_end
+[05:34:04] [Server thread/INFO]: Loaded 0 spawn chunks for world Our Mind_the_end
+[05:34:04] [Server thread/INFO]: Time elapsed: 98 ms
+[05:34:04] [Server thread/INFO]: [32K] Enabling 32K v1.0*
+[05:34:04] [Server thread/INFO]: [Trash] Enabling Trash v4.0*
+[05:34:04] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.6
+[05:34:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:34:04] [Server thread/INFO]: [newtLib] Enabling newtLib v1.5.0
+[05:34:05] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
+[05:34:05] [Server thread/WARN]: [Multiverse-Core] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:06] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.1.0-b775" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[05:34:06] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+[05:34:06] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[05:34:08] [Server thread/INFO]: [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[05:34:08] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[05:34:08] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[05:34:08] [Server thread/INFO]: [SpawnerSilk] Enabling SpawnerSilk v3.2
+[05:34:08] [Server thread/INFO]: [ShulkerRespawner] Enabling ShulkerRespawner v1.13_1.0.5
+[05:34:08] [Server thread/INFO]: [1m[33m**************************************[0m
+[05:34:08] [Server thread/INFO]: [1m[32mShulkerRespawner v1.13_1.0.5[0m Loading...
+[05:34:08] [Server thread/INFO]: [ShulkerRespawner] plugins\ShulkerRespawner\config.yml
+[05:34:08] [Server thread/INFO]: [1m[33m**************************************[0m
+[05:34:08] [Server thread/INFO]: [1m[32mShulkerRespawner v1.13_1.0.5[0m is [1mENABLED[0m
+[05:34:08] [Server thread/INFO]: [1m[33m**************************************[0m
+[05:34:08] [Server thread/INFO]: Checking for updates...
+[05:34:09] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.127-SNAPSHOT
+[05:34:09] [Server thread/INFO]: [mcMMO] Platform String: 1.15.2-R0.1-SNAPSHOT
+[05:34:09] [Server thread/INFO]: [mcMMO] Minecraft version determined to be - 1.15.2
+[05:34:09] [Server thread/INFO]: [mcMMO] Loading compatibility layers...
+[05:34:09] [Server thread/INFO]: [mcMMO] Loading Compatibility Layer... (Player Attack Cooldown Exploit Prevention)
+[05:34:09] [Server thread/INFO]: [mcMMO] Successfully Loaded Compatibility Layer! (Player Attack Cooldown Exploit Prevention)
+[05:34:09] [Server thread/INFO]: [mcMMO] Finished loading compatibility layers.
+[05:34:10] [Server thread/INFO]: [mcMMO] mcMMO found the following materials in the Repair config that are not supported by the version of Minecraft running on this server: NETHERITE_HELMET, NETHERITE_PICKAXE, NETHERITE_CHESTPLATE, NETHERITE_AXE, NETHERITE_HOE, NETHERITE_SWORD, NETHERITE_SHOVEL, NETHERITE_LEGGINGS, NETHERITE_BOOTS
+[05:34:10] [Server thread/INFO]: [mcMMO] Items using materials that are not supported will simply be skipped.
+[05:34:11] [Server thread/INFO]: [mcMMO] mcMMO found the following materials in the Salvage config that are not supported by the version of Minecraft running on this server: NETHERITE_HELMET, NETHERITE_PICKAXE, NETHERITE_CHESTPLATE, NETHERITE_AXE, NETHERITE_HOE, NETHERITE_SWORD, NETHERITE_SHOVEL, NETHERITE_LEGGINGS, NETHERITE_BOOTS
+[05:34:11] [Server thread/INFO]: [mcMMO] Items using materials that are not supported will simply be skipped.
+[05:34:11] [Server thread/INFO]: [mcMMO] Enabling Acrobatics Skills
+[05:34:11] [Server thread/INFO]: [mcMMO] Registered subskill: Roll
+[05:34:11] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[05:34:11] [Server thread/INFO]: [UltimateCatcher] Enabling UltimateCatcher v1.3.4
+[05:34:11] [Server thread/INFO]:  
+[05:34:11] [Server thread/INFO]: =============================
+[05:34:11] [Server thread/INFO]: UltimateCatcher 1.3.4 by Songoda <3!
+[05:34:11] [Server thread/INFO]: Action: Enabling...
+[05:34:11] [Server thread/INFO]: [UltimateCatcher] Loaded locale "en_US"
+[05:34:12] [Server thread/INFO]: [SongodaCore] Hooked UltimateCatcher.
+[05:34:12] [Server thread/WARN]: [UltimateCatcher] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:12] [Server thread/INFO]: =============================
+[05:34:12] [Server thread/INFO]:  
+[05:34:12] [Server thread/INFO]: [XP-Deposit] Enabling XP-Deposit v4.3.1*
+[05:34:12] [Server thread/INFO]: [BuildPortals] Enabling BuildPortals v1.20.68*
+[05:34:12] [Server thread/INFO]: [Scoreboard-revision] Enabling Scoreboard-revision vR3 1.4.2 RELEASE*
+[05:34:12] [Server thread/WARN]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.spigotmc.org/api/general.php
+[05:34:12] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[05:34:12] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[05:34:12] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[05:34:12] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Session.isUpToDate(Session.java:45)
+[05:34:12] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Main.init(Main.java:33)
+[05:34:12] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Main.onEnable(Main.java:24)
+[05:34:12] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[05:34:12] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:364)
+[05:34:12] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483)
+[05:34:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:471)
+[05:34:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:385)
+[05:34:12] [Server thread/WARN]: 	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:488)
+[05:34:12] [Server thread/WARN]: 	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298)
+[05:34:12] [Server thread/WARN]: 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:896)
+[05:34:12] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[05:34:12] [Server thread/INFO]: [Scoreboard-revision] Loaded app handler for board: board
+[05:34:12] [Server thread/INFO]: Scoreboard is online! Scoreboard version: R3 1.4.2 RELEASE (OUTDATED)
+[05:34:12] [Server thread/INFO]: 
+[05:34:12] [Server thread/INFO]: [VaultChatFormatter] Enabling VaultChatFormatter v1.0-SNAPSHOT*
+[05:34:12] [Server thread/INFO]: [VaultChatFormatter] New Vault Chat implementation registered: LuckPerms
+[05:34:12] [Server thread/INFO]: [PlayerWarps] Enabling PlayerWarps v5.0.9
+[05:34:12] [Server thread/INFO]: [PlayerWarps] Vault found, now enabling PlayerWarps...
+[05:34:12] [Server thread/INFO]: [PlayerWarps] Generating configs...
+[05:34:12] [Server thread/INFO]: [PlayerWarps] Registering events...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Registering commands...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Registering AddonManager...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Looking for a Permissions plugin...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Permissions plugin found!
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Looking for an economy...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Economy plugin found!
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Looking for a chat plugin... (for prefix's, suffix's, and displayname placeholders)
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Chat plugin found!
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Found PlaceholderAPI adding support...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Current Placeholders:
+[05:34:13] [Server thread/INFO]: [PlayerWarps] %pw_player_warps%, %pw_player_maxwarps%, %pw_server_warps%, %pw_warps%, %pw_warp_<position>%
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Checking Database type...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] YAML support is enabling...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Checking if any converters has been enabled...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Loading the Player warp GUI
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Loading the My Warps GUIs
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Integrating API...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Loading Metrics...
+[05:34:13] [Server thread/INFO]: [PlayerWarps] Successfully loaded Metrics!
+[05:34:13] [Server thread/INFO]: [Jobs] Enabling Jobs v4.15.10
+[05:34:13] [Server thread/INFO]: [Jobs] PlaceholderAPI hooked.
+[05:34:13] [Server thread/INFO]: PlaceholderAPI was found - Enabling capabilities.
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 8 titles!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 75 protected blocks timers!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 995 custom item names!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 67 custom entity names!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 2 custom MythicMobs names!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 37 custom enchant names!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 16 custom color names!
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 11 jobs!
+[05:34:16] [Server thread/INFO]: [Jobs] Explorer job manager registered!
+[05:34:16] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Started database save task.
+[05:34:16] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Started buffered payment thread.
+[05:34:16] [Server thread/INFO]: [Jobs] Preloaded 2 players data in 0.01
+[05:34:16] [Server thread/WARN]: [Jobs] Loaded class com.gmail.nossr50.datatypes.skills.SuperAbilityType from mcMMO v2.1.127-SNAPSHOT which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:16] [Server thread/INFO]: [Jobs] mcMMO2.1.127-SNAPSHOT was found - Enabling capabilities.
+[05:34:16] [Server thread/INFO]: [Jobs] Registered McMMO 2.x listener
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded 12 block protection entries. 4ms
+[05:34:16] [Server thread/INFO]: [Jobs] Loading explorer data
+[05:34:16] [Server thread/INFO]: [Jobs] Loaded explorer data (103)
+[05:34:16] [Server thread/INFO]: [Jobs] Plugin has been enabled successfully.
+[05:34:16] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.1
+[05:34:16] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[05:34:16] [Server thread/INFO]: [QuickShop] Enabling QuickShop v4.0.2.6
+[05:34:16] [Server thread/INFO]: [QuickShop] Quickshop Reremake
+[05:34:16] [Server thread/INFO]: [QuickShop] Running QuickShop-Reremake on NMS version v1_15_R1 For Minecraft version 1.15.2
+[05:34:16] [Server thread/INFO]: [QuickShop] Reading the configuration...
+[05:34:16] [Server thread/INFO]: [QuickShop] Developers: BukkitCommonsStudio, Netherfoam, Timtower, KaiNoMood, Ghost_chu, Mgazul, TiaraRinne
+[05:34:16] [Server thread/INFO]: [QuickShop] Original author: Netherfoam, Timtower, KaiNoMood
+[05:34:16] [Server thread/INFO]: [QuickShop] Let's start loading the plugin
+[05:34:16] [Server thread/INFO]: [QuickShop] Loading plugin translations files...
+[05:34:17] [Server thread/INFO]: [QuickShop] Translator: Ghost_chu, Andre_601
+[05:34:17] [Server thread/INFO]: [QuickShop] Contributors: Timtower, Netherfoam, KaiNoMood, Mgazul, JackTheChicken and Andre_601
+[05:34:17] [Server thread/INFO]: [QuickShop] Language Zone: English (en_US)
+[05:34:17] [Server thread/INFO]: [QuickShop] Completed to load plugin translations files.
+[05:34:17] [Server thread/INFO]: [QuickShop] Starting loading items translation...
+[05:34:17] [Server thread/INFO]: [QuickShop] Complete to load items translation.
+[05:34:17] [Server thread/INFO]: [QuickShop] Starting loading enchantments translation...
+[05:34:18] [Server thread/INFO]: [QuickShop] Complete to load enchantments translation.
+[05:34:18] [Server thread/INFO]: [QuickShop] Starting loading potions translation...
+[05:34:18] [Server thread/INFO]: [QuickShop] Complete to load potions effect translation.
+[05:34:18] [Server thread/INFO]: [QuickShop] Successfully loaded PlaceHolderAPI support!
+[05:34:18] [Server thread/INFO]: [QuickShop] Using Virtual item Display, loading ProtocolLib support...
+[05:34:18] [Server thread/INFO]: [QuickShop] Successfully loaded ProtocolLib support!
+[05:34:18] [Server thread/INFO]: [QuickShop] Selected permission provider: Bukkit
+[05:34:18] [Server thread/INFO]: [QuickShop] Loading shops from the database...
+[05:34:18] [Server thread/INFO]: [QuickShop] Used 0ms to fetch all shops from the database.
+[05:34:18] [Server thread/INFO]: [QuickShop] Successfully loaded 0 shops! (Used 1ms, Avg 0ms per shop)
+[05:34:18] [Server thread/INFO]: [QuickShop] 0 shops will load after chunk have loaded, 0 shops will load after the world has loaded.
+[05:34:18] [Server thread/INFO]: [QuickShop] Registering Listeners...
+[05:34:18] [Server thread/INFO]: [QuickShop] Cleaning MsgUtils...
+[05:34:18] [Server thread/INFO]: [QuickShop] Cleaning purchase messages from the database that are over a week old...
+[05:34:18] [Server thread/INFO]: [QuickShop] Registering UpdateWatcher...
+[05:34:18] [Server thread/INFO]: [QuickShop] QuickShop Loaded! 1394 ms.
+[05:34:18] [Server thread/INFO]: [QuickShop] Log actions is enabled, actions will log in the qs.log file!
+[05:34:18] [Server thread/INFO]: [EnchantGui] Enabling EnchantGui v3.1.3
+[05:34:18] [Server thread/INFO]: EnchantGui is fully updated.
+[05:34:18] [Server thread/INFO]: [newtShop] Enabling newtShop v2.0.3
+[05:34:18] [Server thread/INFO]: [CustomHeads] Enabling CustomHeads v3.0.1*
+[05:34:19] [Server thread/INFO]: [HolographicPlaceholders] Enabling HolographicPlaceholders v2.0.1 Beta
+[05:34:19] [Server thread/INFO]: ==================[ Starting ]==================
+[05:34:19] [Server thread/INFO]: [HPE] Enabled: PlaceholderAPI
+[05:34:19] [Server thread/INFO]: [HPE] Enabled: BalTop
+[05:34:19] [Server thread/INFO]: [HPE] Enabled: ProtocolLib
+[05:34:19] [Server thread/INFO]: =================[ Done: 35ms ]=================
+[05:34:19] [Server thread/INFO]: [UltimateClaims] Enabling UltimateClaims v1.2.5
+[05:34:19] [Server thread/INFO]:  
+[05:34:19] [Server thread/INFO]: =============================
+[05:34:19] [Server thread/INFO]: UltimateClaims 1.2.5 by Songoda <3!
+[05:34:19] [Server thread/INFO]: Action: Enabling...
+[05:34:19] [Server thread/INFO]: [UltimateClaims] Loaded locale "en_US"
+[05:34:19] [Server thread/INFO]: [SongodaCore] Hooked UltimateClaims.
+[05:34:19] [Server thread/WARN]: [UltimateClaims] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.10.6 which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:19] [Server thread/INFO]: [UltimateClaims] Data handler connected using SQLite.
+[05:34:19] [Server thread/INFO]: =============================
+[05:34:19] [Server thread/INFO]:  
+[05:34:19] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v5.0.6-RELEASE-b395
+[05:34:19] [Server thread/INFO]: [ItemJoin] Fetched [{ Multiverse-Core, PlaceholderAPI, Vault }]
+[05:34:19] [Server thread/INFO]: [ItemJoin] Checking for updates...
+[05:34:19] [Server thread/INFO]: [ItemJoin] You are up to date!
+[05:34:19] [Server thread/INFO]: [ItemJoin] has been Enabled.
+[05:34:19] [Server thread/INFO]: [RetrosGenerators] Enabling RetrosGenerators v1.3-SNAPSHOT
+[05:34:19] [Server thread/INFO]: [Retro's Generators]: Databse loaded.
+[05:34:19] [Server thread/INFO]: [Retro's Generators]: Commands registered.
+[05:34:19] [Server thread/INFO]: [Retro's Generators]: Listeneres bound.
+[05:34:19] [Server thread/INFO]: [Retro's Generators]: Hotel? Trivago.
+[05:34:20] [Server thread/INFO]: [UltimateKits] Enabling UltimateKits v2.6.4
+[05:34:20] [Server thread/INFO]:  
+[05:34:20] [Server thread/INFO]: =============================
+[05:34:20] [Server thread/INFO]: UltimateKits 2.6.4 by Songoda <3!
+[05:34:20] [Server thread/INFO]: Action: Enabling...
+[05:34:20] [Server thread/INFO]: [UltimateKits] Loaded locale "en_US"
+[05:34:20] [Server thread/INFO]: [SongodaCore] Hooked UltimateKits.
+[05:34:20] [Server thread/INFO]: [UltimateKits] Data handler connected using SQLite.
+[05:34:20] [Server thread/INFO]: =============================
+[05:34:20] [Server thread/INFO]:  
+[05:34:20] [Server thread/INFO]: [MoneyPrinters] Enabling MoneyPrinters v1.2.8
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Enabling GoldenCrates v3.7.5.1
+[05:34:20] [Server thread/WARN]: [GoldenCrates] *** DISCLAIMER ***
+[05:34:20] [Server thread/WARN]: [GoldenCrates] > You're running an unofficial Spigot fork.
+[05:34:20] [Server thread/WARN]: [GoldenCrates] > ONLY OFFICIAL SPIGOT (spigotmc.org) IS SUPPORTED!
+[05:34:20] [Server thread/WARN]: [GoldenCrates] > You won't get any support for any issues unless they are persists on regular Spigot.
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Powered by: FogusCore
+[05:34:20] [Server thread/INFO]: [GoldenCrates] [Hook] HolographicDisplays: Success!
+[05:34:20] [Server thread/WARN]: [GoldenCrates] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.10.6 which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:20] [Server thread/INFO]: [GoldenCrates] [Hook] PlaceholderAPI: Success!
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Crates Loaded: 4
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Templates Loaded: 4
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Menus Loaded: 1
+[05:34:20] [Server thread/INFO]: [GoldenCrates] Plugin loaded in 94 ms!
+[05:34:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: math
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: mcmmo
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: progress
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[05:34:20] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[05:34:20] [Server thread/INFO]: Running delayed init tasks
+[05:34:21] [Server thread/INFO]: [Jobs] Successfully linked with Vault.
+[05:34:21] [Server thread/INFO]: [QuickShop] Registering BStats Mertics...
+[05:34:21] [Server thread/INFO]: [QuickShop] Metrics submitted.
+[05:34:21] [Craft Scheduler Thread - 24/INFO]: [Vault] Checking for Updates ... 
+[05:34:21] [Craft Scheduler Thread - 8/INFO]: [mcMMO] Cleaned backup files. Deleted 7 of 44 files.
+[05:34:21] [Server thread/INFO]: [QuickShop] Using economy system: PhantomEconomy
+[05:34:21] [Craft Scheduler Thread - 4/INFO]: [PhantomEconomy] [Update Checker] You're running the latest version.
+[05:34:21] [Craft Scheduler Thread - 10/INFO]: [PlayerWarps] Checking for a update...
+[05:34:21] [Craft Scheduler Thread - 10/INFO]: [PlayerWarps]  v5.1.1 is out! You are still running version v5.0.9
+[05:34:21] [Craft Scheduler Thread - 23/INFO]: [QuickShop] A new version of QuickShop has been released! [4.0.2.7]
+[05:34:21] [Craft Scheduler Thread - 23/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[05:34:21] [Craft Scheduler Thread - 6/INFO]: [PlaceholderAPI] 174 placeholder expansions are available on the cloud.
+[05:34:21] [Server thread/INFO]: [EnchantGui] config has reloaded
+[05:34:21] [Server thread/INFO]: [EnchantGui] Total loaded enchantments: 37
+[05:34:21] [Server thread/INFO]: Done (37.707s)! For help, type "help"
+[05:34:21] [Server thread/INFO]: Timings Reset
+[05:34:21] [Craft Scheduler Thread - 24/INFO]: [Vault] No new version available
+[05:34:22] [Craft Scheduler Thread - 6/INFO]: [GoldenCrates] Auto-save: Saved 0 online users | 0 offline users.
+[05:34:31] [User Authenticator #1/INFO]: UUID of player CavannDeForrest is 08bc410a-c5c8-4bfa-aff5-c9bb6464e5a0
+[05:34:31] [Server thread/INFO]: CavannDeForrest joined the game
+[05:34:31] [Server thread/INFO]: CavannDeForrest[/127.0.0.1:50691] logged in with entity id 186 at ([Our Mind]-31.621279178835486, 63.0, 292.99342199819534)
+[05:34:31] [Craft Scheduler Thread - 5/WARN]: [PlaceholderAPI] Loaded class com.gmail.nossr50.util.player.UserManager from mcMMO v2.1.127-SNAPSHOT which is not a depend, softdepend or loadbefore of this plugin.
+[05:34:40] [Server thread/INFO]: [mcMMO] WorldGuard was not detected.
+[05:36:15] [Server thread/INFO]: CavannDeForrest issued server command: /xpd d all
+[05:37:06] [Server thread/INFO]: CavannDeForrest issued server command: /time set day
+[05:37:06] [Server thread/INFO]: [CavannDeForrest: Set the time to 1000]
+[05:37:09] [Server thread/INFO]: CavannDeForrest issued server command: /weather clear
+[05:37:09] [Server thread/INFO]: [CavannDeForrest: Set the weather to clear]
+[05:38:58] [Server thread/INFO]: CavannDeForrest issued server command: /mp shop
+[05:39:04] [Server thread/INFO]: CavannDeForrest issued server command: /mp shop
+[05:39:06] [Server thread/INFO]: CavannDeForrest issued server command: /mp shop
+[05:44:21] [Server thread/INFO]: CavannDeForrest issued server command: /gamemode creative
+[05:44:21] [Server thread/INFO]: [CavannDeForrest: Set own game mode to Creative Mode]
+[05:49:21] [Craft Scheduler Thread - 40/INFO]: [GoldenCrates] Auto-save: Saved 1 online users | 0 offline users.
+[06:04:21] [Craft Scheduler Thread - 57/INFO]: [GoldenCrates] Auto-save: Saved 1 online users | 0 offline users.
+[06:19:21] [Craft Scheduler Thread - 78/INFO]: [GoldenCrates] Auto-save: Saved 1 online users | 0 offline users.
+[06:34:21] [Craft Scheduler Thread - 107/INFO]: [QuickShop] A new version of QuickShop has been released! [4.0.2.9]
+[06:34:21] [Craft Scheduler Thread - 107/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[06:34:21] [Craft Scheduler Thread - 112/INFO]: [GoldenCrates] Auto-save: Saved 1 online users | 0 offline users.
+[06:37:28] [Server thread/INFO]: Stopping the server
+[06:37:28] [Server thread/INFO]: Stopping server
+[06:37:28] [Server thread/INFO]: [GoldenCrates] Disabling GoldenCrates v3.7.5.1
+[06:37:28] [Server thread/INFO]: [GoldenCrates] Auto-save: Saved 1 online users | 0 offline users.
+[06:37:28] [Server thread/INFO]: [MoneyPrinters] Disabling MoneyPrinters v1.2.8
+[06:37:28] [Server thread/INFO]: [UltimateKits] Disabling UltimateKits v2.6.4
+[06:37:28] [Server thread/INFO]:  
+[06:37:28] [Server thread/INFO]: =============================
+[06:37:28] [Server thread/INFO]: UltimateKits 2.6.4 by Songoda <3!
+[06:37:28] [Server thread/INFO]: Action: Disabling...
+[06:37:28] [Server thread/INFO]: =============================
+[06:37:28] [Server thread/INFO]:  
+[06:37:28] [Server thread/INFO]: [RetrosGenerators] Disabling RetrosGenerators v1.3-SNAPSHOT
+[06:37:28] [Server thread/INFO]: [Retro's Generators]: Unloading generators & saving them to storage.
+[06:37:28] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v5.0.6-RELEASE-b395
+[06:37:28] [Server thread/INFO]: [ItemJoin] has been Disabled.
+[06:37:28] [Server thread/INFO]: [UltimateClaims] Disabling UltimateClaims v1.2.5
+[06:37:28] [Server thread/INFO]:  
+[06:37:28] [Server thread/INFO]: =============================
+[06:37:28] [Server thread/INFO]: UltimateClaims 1.2.5 by Songoda <3!
+[06:37:28] [Server thread/INFO]: Action: Disabling...
+[06:37:28] [Server thread/INFO]: =============================
+[06:37:28] [Server thread/INFO]:  
+[06:37:28] [Server thread/INFO]: [HolographicPlaceholders] Disabling HolographicPlaceholders v2.0.1 Beta
+[06:37:28] [Server thread/INFO]: [HPE] Disabled: PlaceholderAPI
+[06:37:28] [Server thread/INFO]: [HPE] Disabled: BalTop
+[06:37:28] [Server thread/INFO]: [HPE] Disabled: ProtocolLib
+[06:37:28] [Server thread/INFO]: [PhantomEconomy] Disabling PhantomEconomy v1.9.17-RELEASE
+[06:37:28] [Server thread/INFO]: [PhantomEconomy] --+-- Disabling Began --+--
+[06:37:28] [Server thread/INFO]: [PhantomEconomy] Unhooking from Vault...
+[06:37:28] [Server thread/INFO]: [PhantomEconomy] Unhooked from Vault successfully.
+[06:37:28] [Server thread/INFO]: [PhantomEconomy] --+-- Disabling Began --+--
+[06:37:28] [Server thread/INFO]: [FogusCore] Disabling FogusCore v1.9.9
+[06:37:28] [Server thread/INFO]: [CustomHeads] Disabling CustomHeads v3.0.1
+[06:37:28] [Server thread/INFO]: [newtShop] Disabling newtShop v2.0.3
+[06:37:28] [Server thread/INFO]: [EnchantGui] Disabling EnchantGui v3.1.3
+[06:37:28] [Server thread/INFO]: [QuickShop] Disabling QuickShop v4.0.2.6
+[06:37:28] [Server thread/INFO]: [QuickShop] QuickShop is finishing remaining work, this may need a while...
+[06:37:28] [Server thread/INFO]: [QuickShop] Please wait for the data to flush its data...
+[06:37:28] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.1
+[06:37:28] [Server thread/INFO]: [Jobs] Disabling Jobs v4.15.10
+[06:37:29] [Server thread/INFO]: [Jobs] Saved 1 new explorer entries.
+[06:37:29] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Database save task shutdown!
+[06:37:29] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Buffered payment thread shutdown.
+[06:37:29] [Server thread/INFO]: [Jobs] Plugin has been disabled successfully.
+[06:37:29] [Server thread/INFO]: [PlayerWarps] Disabling PlayerWarps v5.0.9
+[06:37:29] [Server thread/INFO]: [VaultChatFormatter] Disabling VaultChatFormatter v1.0-SNAPSHOT
+[06:37:29] [Server thread/INFO]: [Scoreboard-revision] Disabling Scoreboard-revision vR3 1.4.2 RELEASE
+[06:37:29] [Server thread/INFO]: [BuildPortals] Disabling BuildPortals v1.20.68
+[06:37:29] [Server thread/INFO]: [XP-Deposit] Disabling XP-Deposit v4.3.1
+[06:37:29] [Server thread/INFO]: Vault support disabled.
+[06:37:29] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[06:37:29] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[06:37:29] [Server thread/INFO]: [UltimateCatcher] Disabling UltimateCatcher v1.3.4
+[06:37:29] [Server thread/INFO]:  
+[06:37:29] [Server thread/INFO]: =============================
+[06:37:29] [Server thread/INFO]: UltimateCatcher 1.3.4 by Songoda <3!
+[06:37:29] [Server thread/INFO]: Action: Disabling...
+[06:37:29] [Server thread/INFO]: =============================
+[06:37:29] [Server thread/INFO]:  
+[06:37:29] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.127-SNAPSHOT
+[06:37:29] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: mcmmo
+[06:37:29] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (1)
+[06:37:29] [Server thread/INFO]: [mcMMO] Saving data for player: CavannDeForrest
+[06:37:29] [Server thread/INFO]: [mcMMO] Finished save operation for 1 players!
+[06:37:29] [Server thread/INFO]: [ShulkerRespawner] Disabling ShulkerRespawner v1.13_1.0.5
+[06:37:29] [Server thread/INFO]: [1m[33m**************************************[0m
+[06:37:29] [Server thread/INFO]: [1m[32mShulkerRespawner v1.13_1.0.5[0m is [1mDISABLED[0m
+[06:37:29] [Server thread/INFO]: [1m[33m**************************************[0m
+[06:37:29] [Server thread/INFO]: [SpawnerSilk] Disabling SpawnerSilk v3.2
+[06:37:29] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[06:37:29] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.0-b775
+[06:37:29] [Server thread/INFO]: [newtLib] Disabling newtLib v1.5.0
+[06:37:29] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.6
+[06:37:29] [Server thread/INFO]: [Trash] Disabling Trash v4.0
+[06:37:29] [Server thread/INFO]: [32K] Disabling 32K v1.0
+[06:37:29] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[06:37:29] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:37:29] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:37:29] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:37:29] [Server thread/INFO]: Saving players
+[06:37:29] [Server thread/INFO]: CavannDeForrest lost connection: Server closed
+[06:37:29] [Server thread/INFO]: CavannDeForrest left the game
+[06:37:29] [Server thread/INFO]: Saving worlds
+[06:37:29] [Server thread/INFO]: Saving chunks for level 'Our Mind'/minecraft:overworld
+[06:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (Our Mind): All chunks are saved
+[06:37:30] [Server thread/INFO]: Saving chunks for level 'Our Mind_nether'/minecraft:the_nether
+[06:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:37:30] [Server thread/INFO]: Saving chunks for level 'Our Mind_the_end'/minecraft:the_end
+[06:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (Our Mind): All chunks are saved
+[06:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:37:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:37:31] [Server thread/INFO]: Flushing Chunk IO
+[06:37:31] [Server thread/INFO]: Closing Thread Pool
+[06:37:31] [Server thread/INFO]: Closing Server

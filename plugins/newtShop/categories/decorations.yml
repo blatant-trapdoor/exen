@@ -1,0 +1,62 @@
+name: '&9Decorations'
+id: 'decorations'
+display-item:
+  display-type: ITEM
+  material: GLASS
+slot: 3
+sort-type: FILL
+items:
+  OAK_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: OAK_DOOR
+  SPRUCE_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: SPRUCE_DOOR
+  BIRCH_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: BIRCH_DOOR
+  JUNGLE_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: JUNGLE_DOOR
+  ACACIA_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: ACACIA_DOOR
+  DARK_OAK_DOOR:
+    buy: 18
+    sell: 6
+    item:
+      type: NORMAL
+      material: DARK_OAK_DOOR
+  TORCH:
+    buy: 16
+    sell: 2
+    item:
+      type: NORMAL
+      material: TORCH
+  IRON_BARS:
+    buy: 64
+    sell: 14
+    item:
+      type: NORMAL
+      material: IRON_BARS
+  END_ROD:
+    buy: 94
+    sell: 17
+    item:
+      type: NORMAL
+      material: END_ROD

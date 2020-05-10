@@ -1,0 +1,14 @@
+name: '&fMob Drops'
+id: 'mobdrops'
+display-item:
+  display-type: ITEM
+  material: ENDER_PEARL
+slot: 7
+sort-type: FILL
+items:
+  ROTTEN_FLESH:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: ROTTEN_FLESH

@@ -1,0 +1,27 @@
+Kits:
+  better_tools:
+    delay: 300
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:diamond_axe",tag:{Damage:0,Enchantments:[{id:"minecraft:efficiency",lvl:2s},{id:"minecraft:unbreaking",lvl:2s}]},Count:1b}'
+    - '{id:"minecraft:diamond_pickaxe",tag:{Damage:0,Enchantments:[{id:"minecraft:efficiency",lvl:5s},{id:"minecraft:unbreaking",lvl:2s}]},Count:1b}'
+    - '{id:"minecraft:diamond_hoe",tag:{Damage:0,Enchantments:[{id:"minecraft:unbreaking",lvl:3s}]},Count:1b}'
+    - '{id:"minecraft:diamond_shovel",tag:{Damage:0,Enchantments:[{id:"minecraft:efficiency",lvl:1s}]},Count:1b}'
+  brianna:
+    delay: 0
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items: []
+  tools:
+    delay: 10
+    price: 0.0
+    hidden: false
+    animation: NONE
+    items:
+    - '{id:"minecraft:stone_pickaxe",tag:{Damage:0},Count:1b}'
+    - '{id:"minecraft:stone_hoe",tag:{Damage:0},Count:1b}'
+    - '{id:"minecraft:stone_shovel",tag:{Damage:0},Count:1b}'
+    - '{id:"minecraft:stone_axe",tag:{Damage:0},Count:1b}'

@@ -1,0 +1,14 @@
+name: '&5Variants'
+id: 'variants'
+display-item:
+  display-type: ITEM
+  material: OAK_STAIRS
+slot: 18
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

@@ -1,0 +1,14 @@
+name: '&fSpawn Eggs'
+id: 'spawneggs'
+display-item:
+  display-type: ITEM
+  material: CHICKEN_SPAWN_EGG
+slot: 13
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

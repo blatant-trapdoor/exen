@@ -1,0 +1,21 @@
+item_stack_size: 16 # Amount of items to place in a stack when dispensing
+rate: 20 # Default spawn rate in ticks
+cost-multiplier: 2 # Cost per level to upgrade
+multiplier: 0.2 # Default multiplier per level
+show-names: true # Show generator name above
+speed-up: true # If enabled generators will work faster each level, else they will generate more each level
+IronGenerator:
+    rate: 20
+    multiplier: 0.2
+GoldGenerator:
+    rate: 40
+    multiplier: 0.2
+DiamondGenerator:
+    rate: 80
+    multiplier: 0.2
+EmeraldGenerator:
+    rate: 160
+    multiplier: 0.2
+NautilusGenerator:
+    rate: 160
+    multiplier: 0.2

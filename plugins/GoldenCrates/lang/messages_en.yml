@@ -1,0 +1,74 @@
+Command:
+  Give:
+    Usage: <player | *> <crate> [amount]
+    Desc: Gives crate(s) to a player.
+    Done: Given &ax%amount% %crate% &7crate(s) to &a%player%
+    Notify: You recieved &ax%amount% &a%crate%
+    Error: The crate must be an &cITEM &7crate!
+  GiveKey:
+    Usage: <player | *> <crate> [amount]
+    Desc: Gives crate key(s) to a player.
+    Done: Given &ax%amount% &a%crate% &7crate key(s) to &a%player%
+    Notify: You recieved &a%amount% &7key(s) for &a%crate% &7crate!
+    Error: This crate does not requires key to open!
+  CheckKey:
+    Desc: Show amount of player keys for specified crate.
+    Usage: <player> <crate>
+    Error:
+      Offline: '&cCrate key is real &eItem&c. Player must be online to inspect his
+        inventory!'
+      NoKey: This crate does not requires key to open!
+    Done: Player &a%player% &7have &a%amount% &7key(s) for &a%crate%&7.
+  Menu:
+    Usage: '[menu]'
+    Desc: Opens crate menu.
+Crate:
+  Error:
+    Invalid: 'Invalid crate: &c%crate%&7.'
+    Cooldown: You have to wait &6%time% &7before open this crate again!
+    Open: '&cYou''re already opening a crate, please wait.'
+    Key: '&cYou don''t have a key for this crate!'
+    NoRewards: '&cThis crate does not contains any rewards!'
+    Money: '&cYou don''t have enough money to open this crate!'
+  Placeholder:
+    Cooldown:
+      Blank: Ready to open!
+  Open:
+    Reward:
+      Info: 'You have opened a crate and got the reward: &a%reward%'
+      Broadcast: '&aPlayer &e%player% &ajust opened &e%crate% &aand got the reward(s):
+        &c%reward%'
+Editor:
+  Tip:
+    Commands:
+    - '&7'
+    - '&b&lCommand Tips:'
+    - '&7'
+    - '&2• &a[CONSOLE] <command> &2- Execute from Console.'
+    - '&2• &a[OP] <command> &2- Execute as an Operator.'
+    - '&2• &a<command> &2- Execute from a Player.'
+    - '&2• &a%player% &2- Player name placeholder.'
+    - '&7'
+    ID: '&7Enter an ID name...'
+    Name: '&7Enter a new name...'
+    Chance: '&7Enter a new chance...'
+    Command: '&7Enter a new command...'
+    Location: '&7Take a look at a block and type &eset&7...'
+    HologramText: '&7Enter a new line...'
+    Cooldown: '&7Enter a new value in seconds...'
+    NPC: '&7Enter a NPC ID...'
+    Template: '&7Enter a template name...'
+    OpenCost: '&7Enter a new cost...'
+    MenuSlot: '&7Enter a new slot...'
+    MenuName: '&7Enter a menu name...'
+  Error:
+    CrateExists: Crate with such id is already exists!
+    Block: Invalid block or air.
+    Template: No such template!
+    Menu: No such menu!
+Menu:
+  Invalid: 'Invalid menu: &c''%menu%''&7!'
+CrateType:
+  ITEM_CRATE: Item Crate
+  BLOCK_CRATE: Block Crate
+  MENU_CRATE: Menu Crate

@@ -1,0 +1,57 @@
+name: '&5B&dr&5e&dw&5i&dn&5g'
+id: 'ingredients'
+display-item:
+  display-type: ITEM
+  material: BREWING_STAND
+slot: 11
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE
+  FERMENTED_SPIDER_EYE:
+    buy: 62
+    sell: 12
+    item:
+      type: NORMAL
+      material: FERMENTED_SPIDER_EYE
+  BLAZE_POWDER:
+    buy: 76
+    sell: 15
+    item:
+      type: NORMAL
+      material: BLAZE_POWDER
+  MAGMA_CREAM:
+    buy: 69
+    sell: 14
+    item:
+      type: NORMAL
+      material: MAGMA_CREAM
+  GHAST_TEAR:
+    buy: 110
+    sell: 20
+    item:
+      type: NORMAL
+      material: GHAST_TEAR
+  GLISTERING_MELON_SLICE:
+    buy: 145
+    sell: 24
+    item:
+      type: NORMAL
+      material: GLISTERING_MELON_SLICE
+  GOLDEN_CARROT:
+    buy: 145
+    sell: 24
+    item:
+      type: NORMAL
+      material: GOLDEN_CARROT
+  RABBIT_FOOT:
+    buy: 89
+    sell: 16
+    item:
+      type: NORMAL
+      material: RABBIT_FOOT
+ 

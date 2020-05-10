@@ -1,0 +1,14 @@
+name: '&fPotions'
+id: 'potions'
+display-item:
+  display-type: ITEM
+  material: POTION
+slot: 12
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

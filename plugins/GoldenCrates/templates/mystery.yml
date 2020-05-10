@@ -1,0 +1,17 @@
+title: 'Mystery Crate'
+size: 27
+time:
+  update-ticks: 2
+  roll-second: 0.1
+  finish-second: 7
+reward-slots: '13'
+win-slot: 13
+roll-sound: 'BLOCK_NOTE_BLOCK_BELL'
+custom-content:
+  panes:
+    material: 'BLACK_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26'
+    type: RAINBOW

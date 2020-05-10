@@ -1,0 +1,29 @@
+# The name of the GUI
+gui-name: "&0Trash"
+
+# Message when /trash reload is run
+reload-message-successful: "&8[&eTrash&8] &7Reload Successful."
+
+# Message when someone without the correct permission uses /trash reload
+reload-no-permission: "&8[&eTrash&8] &7Insufficient Permission."
+
+# Message when user adds an invalid argument to /trash
+incorrect-usage: "&7Incorrect Usage: /trash"
+
+# Message when a player doesn't have the correct permission to use /trash
+no-permisison: "&8[&eTrash&8] &7Insufficient Permission."
+
+# Message when console tries to use the trash plugin
+not-player: "&8[&eTrash&8] &7You are not a player..."
+
+# Enable whether a message will be sent when the Trash is open
+open-inventory-message-enabled: true
+
+# Message when inventory is opened
+open-inventory: "&8[&eTrash&8] &7Opening the virtual trash can."
+
+# Message when /trash all is run
+trash-all: "&8[&eTrash&8] &7All of your items have been trashed."
+
+# Message when a player doesn't have permission to use /trash all
+trash-all-no-permission: "&8[&eTrash&8] &7Insufficient Permission."

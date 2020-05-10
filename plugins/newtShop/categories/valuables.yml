@@ -1,0 +1,105 @@
+name: '&9Valuables'
+id: 'valuables'
+display-item:
+  display-type: ITEM
+  material: DIAMOND
+slot: 10
+sort-type: SET
+pages: 1
+items:
+  COAL:
+    buy: 64
+    sell: 16
+    item:
+      type: NORMAL
+      material: COAL
+      slot: 2
+      page: 1
+  COAL_BLOCK:
+    buy: 576
+    sell: 226
+    item:
+      type: NORMAL
+      material: COAL_BLOCK
+      slot: 11
+      page: 1
+  IRON_INGOT:
+    buy: 86
+    sell: 30
+    item:
+      type: NORMAL
+      material: IRON_INGOT
+      slot: 29
+      page: 1
+  IRON_BLOCK:
+    buy: 774
+    sell: 376
+    item:
+      type: NORMAL
+      material: IRON_BLOCK
+      slot: 38
+      page: 1
+  GOLD_INGOT:
+    buy: 132
+    sell: 54
+    item:
+      type: NORMAL
+      material: GOLD_INGOT
+      slot: 4
+      page: 1
+  GOLD_BLOCK:
+    buy: 1188
+    sell: 537
+    item:
+      type: NORMAL
+      material: GOLD_BLOCK
+      slot: 13
+      page: 1
+  REDSTONE:
+    buy: 116
+    sell: 44
+    item:
+      type: NORMAL
+      material: REDSTONE
+      slot: 31
+      page: 1
+  REDSTONE_BLOCK:
+    buy: 1044
+    sell: 497
+    item:
+      type: NORMAL
+      material: REDSTONE_BLOCK
+      slot: 40
+      page: 1
+  LAPIS_LAZULI:
+    buy: 194
+    sell: 86
+    item:
+      type: NORMAL
+      material: LAPIS_LAZULI
+      slot: 6
+      page: 1
+  LAPIS_BLOCK:
+    buy: 1746
+    sell: 892
+    item:
+      type: NORMAL
+      material: LAPIS_BLOCK
+      slot: 15
+      page: 1
+  DIAMOND:
+    buy: 298
+    sell: 124
+    item:
+      type: NORMAL
+      material: DIAMOND
+      slot: 33
+      page: 1
+  DIAMOND_BLOCK:
+    buy: 2682
+    sell: 1289
+    item:
+      type: NORMAL
+      material: DIAMOND_BLOCK
+      slot: 42
+      page: 1

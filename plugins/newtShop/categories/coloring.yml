@@ -1,0 +1,776 @@
+name: '&fColors'
+id: 'colors'
+display-item:
+   display-type: ITEM
+   material: 'PURPLE_STAINED_GLASS'
+slot: 4
+sort-type: 'FILL'
+items:  
+  WHITE_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: WHITE_WOOL
+  WHITE_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: WHITE_CARPET
+  ORANGE_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: ORANGE_WOOL
+  ORANGE_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: ORANGE_CARPET
+  MAGENTA_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: MAGENTA_WOOL
+  MAGENTA_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: MAGENTA_CARPET
+  LIGHT_BLUE_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_WOOL
+  LIGHT_BLUE_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_CARPET
+  YELLOW_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: YELLOW_WOOL
+  YELLOW_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: YELLOW_CARPET
+  LIME_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: LIME_WOOL
+  LIME_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: LIME_CARPET
+  PINK_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: PINK_WOOL
+  PINK_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: PINK_CARPET
+  GRAY_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: GRAY_WOOL
+  GRAY_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: GRAY_CARPET
+  LIGHT_GRAY_WOOL:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_WOOL
+  LIGHT_GRAY_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_CARPET
+  CYAN_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: CYAN_WOOL
+  CYAN_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: CYAN_CARPET
+  BLUE_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: BLUE_WOOL
+  BLUE_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: BLUE_CARPET
+  PURPLE_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: PURPLE_WOOL
+  PURPLE_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: PURPLE_CARPET
+  GREEN_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: GREEN_WOOL
+  GREEN_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: GREEN_CARPET
+  BROWN_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: BROWN_WOOL
+  BROWN_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: BROWN_CARPET
+  RED_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: RED_WOOL
+  RED_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: RED_CARPET
+  BLACK_WOOL:
+    buy: 26
+    sell: 8
+    item:
+      type: NORMAL
+      material: BLACK_WOOL
+  BLACK_CARPET:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: BLACK_CARPET
+  WHITE_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: WHITE_STAINED_GLASS
+  WHITE_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: WHITE_STAINED_GLASS_PANE
+  ORANGE_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: ORANGE_STAINED_GLASS
+  ORANGE_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: ORANGE_STAINED_GLASS_PANE
+  MAGENTA_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: MAGENTA_STAINED_GLASS
+  MAGENTA_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: MAGENTA_STAINED_GLASS_PANE
+  LIGHT_BLUE_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_STAINED_GLASS
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+  YELLOW_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: YELLOW_STAINED_GLASS
+  YELLOW_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: YELLOW_STAINED_GLASS_PANE
+  LIME_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: LIME_STAINED_GLASS
+  LIME_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: LIME_STAINED_GLASS_PANE
+  PINK_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: PINK_STAINED_GLASS
+  PINK_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: PINK_STAINED_GLASS_PANE
+  GRAY_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: GRAY_STAINED_GLASS
+  GRAY_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: GRAY_STAINED_GLASS_PANE
+  LIGHT_GRAY_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_STAINED_GLASS
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_STAINED_GLASS_PANE
+  CYAN_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: CYAN_STAINED_GLASS
+  CYAN_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: CYAN_STAINED_GLASS_PANE
+  BLUE_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: BLUE_STAINED_GLASS
+  BLUE_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: BLUE_STAINED_GLASS_PANE
+  PURPLE_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: PURPLE_STAINED_GLASS
+  PURPLE_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: PURPLE_STAINED_GLASS_PANE
+  GREEN_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: GREEN_STAINED_GLASS
+  GREEN_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: GREEN_STAINED_GLASS_PANE
+  BROWN_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: BROWN_STAINED_GLASS
+  BROWN_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: BROWN_STAINED_GLASS_PANE
+  RED_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: RED_STAINED_GLASS
+  RED_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: RED_STAINED_GLASS_PANE
+  BLACK_STAINED_GLASS:
+    buy: 26
+    sell: 5
+    item:
+      type: NORMAL
+      material: BLACK_STAINED_GLASS
+  BLACK_STAINED_GLASS_PANE:
+    buy: 14
+    sell: 3
+    item:
+      type: NORMAL
+      material: BLACK_STAINED_GLASS_PANE
+  WHITE_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: WHITE_TERRACOTTA
+  WHITE_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: WHITE_GLAZED_TERRACOTTA
+  ORANGE_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: ORANGE_TERRACOTTA
+  ORANGE_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: ORANGE_GLAZED_TERRACOTTA
+  MAGENTA_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: MAGENTA_TERRACOTTA
+  MAGENTA_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: MAGENTA_GLAZED_TERRACOTTA
+  LIGHT_BLUE_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_TERRACOTTA
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_GLAZED_TERRACOTTA
+  YELLOW_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: YELLOW_TERRACOTTA
+  YELLOW_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: YELLOW_GLAZED_TERRACOTTA
+  LIME_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: LIME_TERRACOTTA
+  LIME_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: LIME_GLAZED_TERRACOTTA
+  PINK_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: PINK_TERRACOTTA
+  PINK_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: PINK_GLAZED_TERRACOTTA
+  GRAY_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: GRAY_TERRACOTTA
+  GRAY_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: GRAY_GLAZED_TERRACOTTA
+  LIGHT_GRAY_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_TERRACOTTA
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_GLAZED_TERRACOTTA
+  CYAN_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: CYAN_TERRACOTTA
+  CYAN_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: CYAN_GLAZED_TERRACOTTA
+  BLUE_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: BLUE_TERRACOTTA
+  BLUE_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: BLUE_GLAZED_TERRACOTTA
+  PURPLE_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: PURPLE_TERRACOTTA
+  PURPLE_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: PURPLE_GLAZED_TERRACOTTA
+  GREEN_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: GREEN_TERRACOTTA
+  GREEN_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: GREEN_GLAZED_TERRACOTTA
+  BROWN_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: BROWN_TERRACOTTA
+  BROWN_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: BROWN_GLAZED_TERRACOTTA
+  RED_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: RED_TERRACOTTA
+  RED_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: RED_GLAZED_TERRACOTTA
+  BLACK_TERRACOTTA:
+    buy: 42
+    sell: 19
+    item:
+      type: NORMAL
+      material: BLACK_TERRACOTTA
+  BLACK_GLAZED_TERRACOTTA:
+    buy: 48
+    sell: 21
+    item:
+      type: NORMAL
+      material: BLACK_GLAZED_TERRACOTTA
+  WHITE_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: WHITE_CONCRETE_POWDER
+  WHITE_CONCRETE:
+    buy: 60
+    sell: 24
+    item:
+      type: NORMAL
+      material: WHITE_CONCRETE
+  ORANGE_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: ORANGE_CONCRETE_POWDER
+  ORANGE_CONCRETE:
+    buy: 60
+    sell: 24
+    item:
+      type: NORMAL
+      material: ORANGE_CONCRETE
+  MAGENTA_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: MAGENTA_CONCRETE_POWDER
+  MAGENTA_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: MAGENTA_CONCRETE
+  LIGHT_BLUE_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_CONCRETE_POWDER
+  LIGHT_BLUE_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: LIGHT_BLUE_CONCRETE
+  YELLOW_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: YELLOW_CONCRETE_POWDER
+  YELLOW_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: YELLOW_CONCRETE
+  LIME_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: LIME_CONCRETE_POWDER
+  LIME_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: LIME_CONCRETE
+  PINK_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: PINK_CONCRETE_POWDER
+  PINK_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: PINK_CONCRETE
+  GRAY_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: GRAY_CONCRETE_POWDER
+  GRAY_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: GRAY_CONCRETE
+  LIGHT_GRAY_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_CONCRETE_POWDER
+  LIGHT_GRAY_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: LIGHT_GRAY_CONCRETE
+  CYAN_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: CYAN_CONCRETE_POWDER
+  CYAN_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: CYAN_CONCRETE
+  BLUE_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: BLUE_CONCRETE_POWDER
+  BLUE_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: BLUE_CONCRETE
+  PURPLE_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: PURPLE_CONCRETE_POWDER
+  PURPLE_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: PURPLE_CONCRETE
+  GREEN_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: GREEN_CONCRETE_POWDER
+  GREEN_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: GREEN_CONCRETE
+  BROWN_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: BROWN_CONCRETE_POWDER
+  BROWN_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: BROWN_CONCRETE
+  RED_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: RED_CONCRETE_POWDER
+  RED_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: RED_CONCRETE
+  BLACK_CONCRETE_POWDER:
+    buy: 54
+    sell: 20
+    item:
+      type: NORMAL
+      material: BLACK_CONCRETE_POWDER
+  BLACK_CONCRETE:
+    buy: 64
+    sell: 24
+    item:
+      type: NORMAL
+      material: BLACK_CONCRETE

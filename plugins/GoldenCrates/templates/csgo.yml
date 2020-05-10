@@ -1,0 +1,25 @@
+title: 'CS:GO Crate'
+size: 27
+time:
+  update-ticks: 2
+  roll-second: 0.05
+  finish-second: 7
+roll-sound: 'BLOCK_NOTE_BLOCK_BELL'
+
+reward-slots: '17,16,15,14,13,12,11,10,9'
+win-slot: 13
+custom-content:
+  panes:
+    material: 'BLACK_STAINED_GLASS_PANE'
+    name: '&a'
+    lore: []
+    enchanted: false
+    slots: '0,1,2,3,5,6,7,8,18,19,20,21,23,24,25,26'
+    type: RAINBOW_SYNC
+  red_torch:
+    material: 'REDSTONE_TORCH'
+    name: '&c&l» PRIZE «'
+    lore: []
+    enchanted: false
+    slots: '4,22'
+    type: NONE

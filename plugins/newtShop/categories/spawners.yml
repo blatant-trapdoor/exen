@@ -1,0 +1,14 @@
+name: '&5Spawners'
+id: 'spawners'
+display-item:
+  display-type: ITEM
+  material: SPAWNER
+slot: 14
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

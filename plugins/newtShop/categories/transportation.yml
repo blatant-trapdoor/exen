@@ -1,0 +1,14 @@
+name: '&5Transportation'
+id: 'transportation'
+display-item:
+  display-type: ITEM
+  material: OAK_BOAT
+slot: 15
+sort-type: FILL
+items:
+  PHANTOM_MEMBRANE:
+    buy: 244
+    sell: 23
+    item:
+      type: NORMAL
+      material: PHANTOM_MEMBRANE

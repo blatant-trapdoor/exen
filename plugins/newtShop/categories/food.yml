@@ -1,0 +1,14 @@
+name: '&fFood'
+id: 'food'
+display-item:
+  display-type: ITEM
+  material: APPLE
+slot: 6
+sort-type: FILL
+items:
+  APPLE:
+    buy: 10
+    sell: 2
+    item:
+      type: NORMAL
+      material: APPLE
