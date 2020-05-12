@@ -6,6 +6,18 @@ display-item:
 slot: 11
 sort-type: FILL
 items:
+  GLOWSTONE_DUST:
+    buy: 54
+    sell: 12
+    item:
+      type: NORMAL
+      material: GLOWSTONE_DUST
+  REDSTONE:
+    buy: 116
+    sell: 44
+    item:
+      type: NORMAL
+      material: REDSTONE
   PHANTOM_MEMBRANE:
     buy: 244
     sell: 23
@@ -24,6 +36,18 @@ items:
     item:
       type: NORMAL
       material: BLAZE_POWDER
+  PUFFERFISH:
+    buy: 16
+    sell: 4
+    item:
+      type: NORMAL
+      material: PUFFERFISH
+  SUGAR:
+    buy: 16
+    sell: 2
+    item:
+      type: NORMAL
+      material: SUGAR
   MAGMA_CREAM:
     buy: 69
     sell: 14
@@ -54,4 +78,9 @@ items:
     item:
       type: NORMAL
       material: RABBIT_FOOT
- 
+  DRAGON_BREATH:
+    buy: 540
+    sell: 124
+    item:
+      type: NORMAL
+      material: DRAGON_BREATH
